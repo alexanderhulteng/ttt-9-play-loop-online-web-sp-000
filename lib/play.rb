@@ -40,6 +40,6 @@ def play(board)
   i = 0
   while i < 9
     i = i += 9
-    turn(board)
+    puts "The current number is less than 20."
   end
 end
